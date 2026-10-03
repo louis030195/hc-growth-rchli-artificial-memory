@@ -55,6 +55,7 @@ This project sits at the intersection of these two currents. By mapping memory m
 
 ### Memory Infrastructure
 
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with a Rust CLI and MCP server for agent access through scoped, expiring grants.
 - [Cursor Memory Bank](https://www.lullabot.com/articles/supercharge-your-ai-coding-cursor-rules-and-memory-banks) — Community-driven convention using 6 structured markdown files as persistent project context for Cursor.
 - [Memstate](https://memstate.ai) — External persistent, versioned memory for AI coding agents (cross-tool).
 - [CodeMem](https://codemem.dev) — Permanent memory layer for coding agents across Claude Code, Cursor, and Cline.
